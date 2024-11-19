@@ -1,0 +1,15 @@
+{
+    "name": "juniorpaiva/routes",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junior",
+            "email": "antonioivo.3@gmail.com"
+        }
+    ],
+    "require": {}
+}
